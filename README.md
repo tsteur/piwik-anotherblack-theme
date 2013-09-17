@@ -11,10 +11,10 @@ See http://piwik.org/faq/plugins/#faq_21
 
 ## FAQ
 
-__Does it contain black?__
+#####Does it contain black?
 Yes, it does.
 
-__Does it contain blue?__
+#####Does it contain blue?
 Yes, quite a lot.
 
 ## Changelog
