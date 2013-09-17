@@ -1,0 +1,17 @@
+{
+    "name": "AnotherBlackTheme",
+    "description": "A black theme based on PleineLune",
+    "version": "0.1.0",
+    "theme": true,
+    "keywords": ["live", "tab"],
+    "homepage": "http://piwik.org",
+    "stylesheet": "stylesheets/theme.less",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "The Piwik Team",
+            "email": "hello@piwik.org",
+            "homepage": "http://piwik.org"
+        }
+    ]
+}
